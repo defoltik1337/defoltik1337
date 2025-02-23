@@ -3,6 +3,8 @@
 </a>
 
 ## **Hello im Danya, i small developer from Russia**
+![Profile Views](https://komarev.com/ghpvc/?username=defoltik1337)
+![Github Followers](https://img.shields.io/github/followers/defoltik1337)
 
 ### Languages:
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
