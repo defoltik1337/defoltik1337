@@ -13,7 +13,7 @@
 ![phpMyAdmin Badge](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=for-the-badge)
 ![Hetzner Badge](https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=fff&style=for-the-badge)
 ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
+![Vencord Badge](https://img.shields.io/badge/Vencord-D3859B?logo=vencord&logoColor=fff&style=for-the-badge)
 
 ### Pc:
 ![NVIDIA Badge](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=fff&style=for-the-badge)
