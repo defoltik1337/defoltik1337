@@ -40,10 +40,9 @@
   <img src="https://img.shields.io/badge/MSI-F00?logo=msi&logoColor=fff&style=for-the-badge"/>
 </p>
 
-<details>
-  <summary align="center">Stats:</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=defoltik1337&show_icons=true&theme=gruvbox"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defoltik1337&layout=compact"/>
-  </p>
-</details>
+
+### <h3 align="center">Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=defoltik1337&show_icons=true&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defoltik1337&layout=compact"/>
+</p>
