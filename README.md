@@ -25,7 +25,6 @@
 
 ### <h3 align="center">Tools and other:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/MSI-F00?logo=msi&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge"/>
