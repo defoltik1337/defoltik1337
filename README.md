@@ -1,12 +1,4 @@
 <p align="center">
-  <a href="https://e-z.bio/d3f0ltik" target="_blank">
-    <img src="https://i.ibb.co/fzyvWNcC/standard-4.gif" alt="Bio+gif" width="600"/>
-  </a>
-</p>
-
-<h2 align="center">Hello, I'm Danya, a small developer from Russia</h2>
-
-<p align="center">
   <a href="https://discord.com/users/283314385517019136">
     <img src="https://lanyard-profile-readme.vercel.app/api/283314385517019136" width="45%">
   </a>
